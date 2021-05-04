@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="bankingproject" >
+    <listeners>
+        <listener class-name="com.bankingproject.utilities.ExtentReporterNG"/>
+    </listeners>
+ 
+    <test name="banking app Test">
+        <classes>
+        
+           <!-- <class name="com.bankingproject.testcases.Tc_logintest_001"/> -->
+           <!-- <class name="com.bankingproject.testcases.TC_LoginDDT_002"/> -->
+                <class name="com.bankingproject.testcases.TC_AddCustomerTest_003"/>
+           
+        </classes>
+    </test>
+</suite>

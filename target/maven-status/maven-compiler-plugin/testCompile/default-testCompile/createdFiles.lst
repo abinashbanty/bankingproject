@@ -1,0 +1,10 @@
+com\bankingproject\testcases\Baseclass.class
+com\bankingproject\pageobject\AddCustomerPage.class
+com\bankingproject\testcases\TC_AddCustomerTest_003.class
+com\bankingproject\utilities\Reporting.class
+com\bankingproject\utilities\Xlutils.class
+com\bankingproject\testcases\TC_LoginDDT_002.class
+com\bankingproject\testcases\Tc_logintest_001.class
+com\bankingproject\utilities\ExtentReporterNG.class
+com\bankingproject\utilities\Readconfig.class
+com\bankingproject\pageobject\Loginpage.class
